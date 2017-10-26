@@ -1,1 +1,32 @@
- 
+.contain {
+	border:2px solid black;
+	border-radius:9px;
+	width:90%;
+	height:90%;
+	background:url("../img/nexus.jpg");
+	transition:all ease-in .5;
+	opacity:1;
+
+} 
+.contain button {
+	margin:1%;
+	background:black;
+	color:#f4f4f4;
+	border-radius:30px;
+}
+
+body {
+	text-align:center;
+	background:url("../img/redness.jpg");
+}
+
+#name {
+background:black;
+color:#f4f4f4;
+}
+.addBurgerButton{
+	border-radius:30px;
+	background:url("../img/nexus.jpg");
+	color:#f4f4f4;
+	border:black 3px solid;
+}
